@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Big Files
+data_mn_revenue
+Data/listings.csv.gz
+Data/mn_revenue.zip
+Data/mn_assessor.zip
